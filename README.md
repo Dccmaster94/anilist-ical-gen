@@ -15,8 +15,8 @@ A simple Python script to fetch the currently watching and planning to watch sho
 ## Installation
 Clone the repository:
 ```sh
-git clone https://github.com/your_username/your_repository_name.git
-cd your_repository_name
+git clone https://github.com/Dccmaster94/anilist-ical-gen.git
+cd anilist-ical-gen
 ```
 
 Install required packages:
