@@ -1,6 +1,6 @@
 # AniList to iCal
 
-A simple Python script to fetch the currently watching and planning to watch shows from a user's AniList account and convert the airing schedule of the next episodes into an iCal file.
+A simple Python script to fetch the currently watching and planning to watch shows from a user's AniList account and convert the airing schedule of the next episodes into an iCal file. The current workflow generates an ICA file for my own personal use, but you can see how it works and fork it for your own usage.
 
 ## Features
 - Fetches user's AniList watching and planning to watch shows.
