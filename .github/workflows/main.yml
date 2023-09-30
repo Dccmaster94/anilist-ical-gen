@@ -1,0 +1,32 @@
+name: Generate and Commit ICS File
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Scheduled to run every Sunday at 00:00 UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    
+    - name: Install dependencies
+      run: pip install requests ics
+    
+    - name: Run the script
+      run: python script_name.py # replace with your actual script name
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add anime_schedule.ics
+        git commit -m "Update anime_schedule.ics" || echo "No changes to commit"
+        git push origin
