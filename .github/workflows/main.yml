@@ -22,7 +22,7 @@ jobs:
       run: pip install requests ics
     
     - name: Run the script
-      run: python script_name.py # replace with your actual script name
+      run: python anilist-ical.py # replace with your actual script name
     
     - name: Commit and push changes
       run: |
