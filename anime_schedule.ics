@@ -2,23 +2,23 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART:20231117T140000Z
-SUMMARY:Frieren: Beyond Journey’s End - Episode 11
-UID:aa1567a1-704d-4a2b-a17e-dfe4c86fa5c3@aa15.org
+DTSTART:20231124T140000Z
+SUMMARY:Frieren: Beyond Journey’s End - Episode 12
+UID:a4fd607b-b1bb-4733-885f-19e7a0e33b11@a4fd.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20231116T140000Z
-SUMMARY:My Daughter Left the Nest and Returned an S-Rank Adventurer - Episode 8
-UID:422e103a-c25a-4116-8df5-b3909555b20c@422e.org
+DTSTART:20231125T160500Z
+SUMMARY:The Apothecary Diaries - Episode 8
+UID:125add3c-09bd-41d7-95c4-32515d85f846@125a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20231118T150000Z
-SUMMARY:A Returner's Magic Should Be Special - Episode 7
-UID:7356f634-c38b-4b34-872b-65ce75d7e3d4@7356.org
+DTSTART:20231123T140000Z
+SUMMARY:My Daughter Left the Nest and Returned an S-Rank Adventurer - Episode 9
+UID:39fc6b33-eca4-439d-9517-ec1dd4cbf4a6@39fc.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20231118T160500Z
-SUMMARY:The Apothecary Diaries - Episode 7
-UID:a9e6319a-6e22-42ab-a6ec-ceb6c8a7cd63@a9e6.org
+DTSTART:20231125T150000Z
+SUMMARY:A Returner's Magic Should Be Special - Episode 8
+UID:ce0076e2-df95-494c-8cd9-5a297ee51fad@ce00.org
 END:VEVENT
 END:VCALENDAR
