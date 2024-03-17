@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART:20240315T140000Z
-SUMMARY:Frieren: Beyond Journey’s End - Episode 27
-UID:053a9f38-ecac-4ccd-b645-62fcbd31e1e2@053a.org
+DTSTART:20240323T160500Z
+SUMMARY:The Apothecary Diaries - Episode 24
+UID:da6fb64d-dacd-459b-b30c-d04074e38ecd@da6f.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20240316T160500Z
-SUMMARY:The Apothecary Diaries - Episode 23
-UID:592c2f8a-0fe9-4c22-b164-94d885fab70a@592c.org
+DTSTART:20240322T140000Z
+SUMMARY:Frieren: Beyond Journey’s End - Episode 28
+UID:b94e4958-637d-4854-bfbe-48310bd1ba7d@b94e.org
 END:VEVENT
 END:VCALENDAR
