@@ -1,4 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART:20240410T143000Z
+SUMMARY:KONOSUBA -God's Blessing on This Wonderful World! 3 - Episode 1
+UID:cda07528-8351-4eca-aee3-b243a9734a61@cda0.org
+END:VEVENT
 END:VCALENDAR
