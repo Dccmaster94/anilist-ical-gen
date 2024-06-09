@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART:20240605T140000Z
-SUMMARY:KONOSUBA -God's Blessing on This Wonderful World! 3 - Episode 9
-UID:ccf33349-832f-457f-9636-8f1e10135ad7@ccf3.org
+DTSTART:20240612T140000Z
+SUMMARY:KONOSUBA -God's Blessing on This Wonderful World! 3 - Episode 10
+UID:ebbfc194-7f60-4b19-b428-ea1c886044ef@ebbf.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20240603T150000Z
-SUMMARY:I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability - Episode 10
-UID:d42cc135-5daa-4a79-a7bb-ed95d859200d@d42c.org
+DTSTART:20240610T150000Z
+SUMMARY:I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability - Episode 11
+UID:e9ccd54a-75b0-4334-ba66-9449b09e799f@e9cc.org
 END:VEVENT
 END:VCALENDAR
