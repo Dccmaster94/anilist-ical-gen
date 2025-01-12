@@ -2,8 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART:20250110T140000Z
-SUMMARY:The Apothecary Diaries Season 2 - Episode 1
-UID:1262c4e8-03bd-4b55-b286-3f688c42aafe@1262.org
+DTSTART:20250118T150000Z
+SUMMARY:Solo Leveling Season 2 -Arise from the Shadow- - Episode 3
+UID:b2a6951c-fa7d-4828-bd14-390f759740b8@b2a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250117T140000Z
+SUMMARY:The Apothecary Diaries Season 2 - Episode 2
+UID:45ae9283-09b7-4c17-b810-73357a4919b4@45ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250117T150000Z
+SUMMARY:I May Be a Guild Receptionist\, but I’ll Solo Any Boss to Clock Out on Time - Episode 2
+UID:6ab0ab28-e7f8-431f-966a-95aa1a807b70@6ab0.org
 END:VEVENT
 END:VCALENDAR
