@@ -2,18 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART:20250328T150000Z
-SUMMARY:I May Be a Guild Receptionist\, but I’ll Solo Any Boss to Clock Out on Time - Episode 12
-UID:be22b0a8-0ded-4d9d-8694-f198a39521f7@be22.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250328T140000Z
-SUMMARY:The Apothecary Diaries Season 2 - Episode 12
-UID:8431e3bb-4d0d-461a-bd59-887eeeb9f764@8431.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250329T150000Z
-SUMMARY:Solo Leveling Season 2 -Arise from the Shadow- - Episode 13
-UID:f7cd9588-9143-4977-a8ba-cff885ecc3b0@f7cd.org
+DTSTART:20250404T140000Z
+SUMMARY:The Apothecary Diaries Season 2 - Episode 13
+UID:5c8b3515-41d8-43a6-a500-0ee83f9142f7@5c8b.org
 END:VEVENT
 END:VCALENDAR
