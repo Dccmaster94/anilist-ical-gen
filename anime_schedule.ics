@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART:20250627T140000Z
-SUMMARY:The Apothecary Diaries Season 2 - Episode 23
-UID:ffcb6012-8fc7-4249-8c69-837ef50e798f@ffcb.org
+DTSTART:20250704T140000Z
+SUMMARY:The Apothecary Diaries Season 2 - Episode 24
+UID:c41ee562-0077-4e82-b99b-1c15aac74d94@c41e.org
 END:VEVENT
 END:VCALENDAR
