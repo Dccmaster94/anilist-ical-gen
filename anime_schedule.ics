@@ -1,4 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART:20250903T150000Z
+SUMMARY:I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2 - Episode 9
+UID:97410c81-6c89-4f13-9db5-8803c40397a0@9741.org
+END:VEVENT
 END:VCALENDAR
