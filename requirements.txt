@@ -1,0 +1,3 @@
+ics==0.7.2
+requests
+tatsu<5.0.0
