@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART:20260515T130000Z
-SUMMARY:An Observation Log of My Fiancée Who Calls Herself a Villainess - Episode 7
-UID:0d62812a-c24b-4b30-9f49-58d09e322910@0d62.org
+DTSTART:20260522T130000Z
+SUMMARY:An Observation Log of My Fiancée Who Calls Herself a Villainess - Episode 8
+UID:0a14630c-ddd6-4de9-986c-aa126a6041b0@0a14.org
 END:VEVENT
 END:VCALENDAR
